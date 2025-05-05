@@ -1,0 +1,10 @@
+{
+  "name": "tutorials-files",
+  "version": "0.1.0",
+  "description": "before semicolon tutorial files",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
