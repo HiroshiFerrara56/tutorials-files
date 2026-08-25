@@ -1,6 +1,6 @@
 {
   "name": "tutorials-files",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "description": "before semicolon tutorial files",
   "main": "src/index.js",
   "scripts": {
